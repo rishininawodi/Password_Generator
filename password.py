@@ -56,3 +56,5 @@ has_special = input("Dou want to add Special characters (y/n)? ")  .lower() =="y
 
 pwd = generate_password(min_length,has_number,has_special)
 print(pwd)
+
+
