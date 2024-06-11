@@ -1,3 +1,5 @@
+#Using Python only.............. 
+
 #import two modules
 
 import random
